@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| 🐟 **[ASCII Zoo](https://github.com/Tressilloide/ascii-zoo)** | A live ASCII wallpaper: koi, jellyfish, frogs and crabs swimming behind your desktop icons. Click and they rush to you. Rust · under 1 MB · Windows, macOS, Linux. |
+| 🐟 **[ASCII Zoo](https://github.com/ascii-things/ascii-zoo)** | A live ASCII wallpaper: koi, jellyfish, frogs and crabs swimming behind your desktop icons. Click and they rush to you. It's also a screensaver on Windows: starry skies, rain, a campfire, the aurora. Rust · about 2 MB · Windows, macOS, Linux. <br>**[Download](https://github.com/ascii-things/ascii-zoo/releases/latest)** · [Try it in your browser](https://github.com/ascii-things/ascii-zoo#try-it-in-your-browser) |
 | ✨ *More coming soon* | |
 
 ### How we build
