@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="ascii.things over a pond of ASCII koi fish and lily pads, all made of text characters" width="100%">
+  <img src="banner-koi.png" alt="ascii.things over a pond of ASCII koi fish and lily pads, all made of text characters" width="100%">
 </p>
 
 <p align="center">
